@@ -33,7 +33,8 @@ https://youtu.be/djP-CLFCj6o
 Height Update:
 https://youtu.be/pVckYwh_fKk
 
-Updates and videos in progress...
+A new voxel-version of this project is available at:
+https://github.com/ForlornU/VoxelsBeta
 
 
 ### Donation
